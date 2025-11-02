@@ -1,2 +1,2 @@
-# C-Programming
-This is a test
+# C-Programming.
+This is a test.
